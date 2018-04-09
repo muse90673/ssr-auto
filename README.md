@@ -6,3 +6,4 @@
 在主目录下输入：
 ···Bash
 git clone https://github.com/shadowsocksr-backup/shadowsocksr.git
+···
