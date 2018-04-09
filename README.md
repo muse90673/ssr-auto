@@ -3,6 +3,10 @@
 
 使用方法：
 --------
+安装git：
+```
+yum -y install git
+```
 在主目录下输入：
 ```
 git clone https://github.com/muse90673/ssr-auto.git
