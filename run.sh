@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ~
 #设置.bash_profile文件
-echo sh ~/ssr-auto/auto-exec.sh >> .bash_profile
+echo bash ~/ssr-auto/auto-exec.sh >> .bash_profile
 #安装组件
 yum install git -y
 git clone -b manyuser https://github.com/shadowsocksr-backup/shadowsocksr.git
