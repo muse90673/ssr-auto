@@ -13,6 +13,6 @@ git clone https://github.com/muse90673/ssr-auto.git
 ```
 运行一键脚本：
 ```
-sh ssr-auto/run.sh
+bash ssr-auto/run.sh
 ```
 运行过程中服务器会重启，xshell等软件会断开连接，过十几秒再重新连接，登录后会继续进行后续操作。
