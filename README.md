@@ -4,6 +4,7 @@
 使用方法：
 --------
 在主目录下输入：
-···Bash
+
+```Bash
 git clone https://github.com/shadowsocksr-backup/shadowsocksr.git
-···
+```
